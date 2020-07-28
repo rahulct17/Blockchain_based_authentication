@@ -1,0 +1,38 @@
+
+<%-include("partials/header")%>
+<h1>Compose</h1>
+<!-- <h5>Title</h5>
+<form class="" action="/compose" method="post">
+  <textarea name="txt1" rows="1" cols="80"></textarea>
+<h5>Description</h5>
+
+<textarea name="txt2" rows="8" cols="80"></textarea>
+
+
+  <button type="submit" name="button">Publish</button>
+</form>
+
+ -->
+
+
+
+<form class="" action="/compose" method="post">
+
+
+  <div class="form-group">
+  <h4>Title</h4>
+    <textarea class="form-control" name="txt1" rows="1" cols="10"></textarea>
+    <!-- <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"> -->
+    <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+  </div>
+  <div class="form-group">
+    <h4>Description</h4>
+
+    <textarea class="form-control" name="txt2" rows="8" cols="10"></textarea>
+    <!-- <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password"> -->
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<%-include("partials/footer")%>
