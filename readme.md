@@ -1,6 +1,6 @@
 # A Blockchain Authorization System using Ethereum
 
-#Pre-requisites :
+# Pre-requisites :
       Truffle
       Ganache GUI running on port 7545
 
@@ -22,10 +22,10 @@ Project is done with the following in action :
 
 
 
-#It is a simple project that demonstrates how social login can be implemented using Ethereum Blockchain.
+# It is a simple project that demonstrates how social login can be implemented using Ethereum Blockchain.
 
 
-#Function used.
+#  Function used.
 
 1. Register user ---> This function registers the user's address of the user...only first time registration is required.
 
