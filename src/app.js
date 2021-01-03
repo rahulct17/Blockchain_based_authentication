@@ -1,11 +1,3 @@
-//jshint esversion:6
-
-// hello arya, the smart contract is up and running have a look at it....all the basic things are done
-// my app will function as simply as you said....
-// go to login page will find two buttons login and register..
-// the login button will cheack the validateUser function of Smart contracts
-// the signup button will fire registerUser function from SC.
-// havent wrote any function such in js till now...
 
 
 
